@@ -5,10 +5,10 @@ We investigate task-related brain activity in one subject from the Human Connect
 ## Folder structure
 NSSP_projects\
 |_data (not on repo) <= original data\
-|_derivatives (not on repo) <= produced data file
-  |_anat\ <= anatomical preprocessing
-  |_func\ <= funcitonal preprocessing
-  |_glm\ <= regressors
+|_derivatives (not on repo) <= produced data file\
+  |_anat <= anatomical preprocessing\
+  |_func <= funcitonal preprocessing\
+  |_glm <= regressors\
 |_figures <= produced figures
 
 ## Notebook structure
