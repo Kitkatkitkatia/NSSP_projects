@@ -8,7 +8,8 @@ NSSP_projects\
 |_derivatives (not on repo) <= preprocessed data\
 |_figures <= produced figures
 
-## Notebook structure
+## Notebook structure
+
 ### Part 1
 We apply structural and functional preprocessing and map task-related activity using a general linear model (GLM)
 
