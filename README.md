@@ -5,11 +5,11 @@ We investigate task-related brain activity in one subject from the Human Connect
 ## Folder structure
 ```txt
 NSSP_projects/
-├── data/ (not on repo) <= original data\
-├── derivatives/ (not on repo) <= produced data file\
-│   ├── anat/  <= anatomical preprocessing\
-│   ├── func/  <= funcitonal preprocessing\
-│   └── glm/ <= regressors\
+├── data/ (not on repo) <= original data
+├── derivatives/ (not on repo) <= produced data file
+│   ├── anat/  <= anatomical preprocessing
+│   ├── func/  <= funcitonal preprocessing
+│   └── glm/ <= regressors
 └── figures/ <= produced figures
 ```
 
