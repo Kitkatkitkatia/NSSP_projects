@@ -3,13 +3,15 @@
 We investigate task-related brain activity in one subject from the Human Connectome Project (HCP), using a language task adapted from a paradigm designed to map ATL language areas
 
 ## Folder structure
-NSSP_projects\
-|_data (not on repo) <= original data\
-|_derivatives (not on repo) <= produced data file\
-  |_anat <= anatomical preprocessing\
-  |_func <= funcitonal preprocessing\
-  |_glm <= regressors\
-|_figures <= produced figures
+```txt
+NSSP_projects/
+├── data/ (not on repo) <= original data\
+├── derivatives/ (not on repo) <= produced data file\
+│   ├── anat/  <= anatomical preprocessing\
+│   ├── func/  <= funcitonal preprocessing\
+│   └── glm/ <= regressors\
+└── figures/ <= produced figures
+```
 
 ## Notebook structure
 
